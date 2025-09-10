@@ -10,7 +10,7 @@ Filtrer automatiquement des profils clients (noms, pays sensibles, etc.) via une
 
 - Python : Génération et traitement de clients
 - Kafka :Transmission des données (topic `clients`)
-- **MongoDB : Stockage des profils
+- MongoDB : Stockage des profils
 - Docker Compose : Orchestration locale
 
 ## ▶️ Lancer le projet
